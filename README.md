@@ -8,7 +8,7 @@ The following question statements are intended to draw out our strengths and wea
 
 
 ## 1. Subjective: The self and our inner world
-The Self quadrant focuses on the internal, subjective experiences of an engineering leader, including thoughts, feelings, and personal beliefs. This quadrant encourages leaders to reflect on their leadership philosophy and emotional intelligence, their ethics and integrity. By reflecting on and cultivating self-awareness, leaders can improve their sensemaking, make better decisions, improve their relationships and how they support their teams.
+This quadrant focuses on the internal, subjective experiences of an engineering leader, including thoughts, feelings, and personal beliefs. This quadrant encourages leaders to reflect on their leadership philosophy and emotional intelligence, their ethics and integrity. By reflecting on and cultivating self-awareness, leaders can improve their sensemaking, make better decisions, improve their relationships and how they support their teams.
 
 * <a href="/questions/self-awareness-and-emotional-intelligence.md">Self-Awareness and Emotional Intelligence</a>
 * <a href="/questions/personal-growth-and-learning.md">Personal Growth and Learning</a>
