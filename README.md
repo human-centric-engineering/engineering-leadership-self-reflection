@@ -98,4 +98,4 @@ The materials herein are all &copy; Human-Centric Engineering.
 
 This work is licensed under a <a rel="/license" href="/LICENSE">GNU General Public License v3.0</a>.
 
-The survey questions may be used for commercial or non-commercial purposes without permission of the author, however, it is imperative that Human-Centric Engineering is credited.
+The survey questions may be used within the conditions of the License and it is requested that Human-Centric Engineering is credited for authorship.
