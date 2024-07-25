@@ -89,3 +89,13 @@ This Four Quadrant integral approach will be used to help engineering leaders as
 * We - Intersubjective: Collective, social, teams, culture and shared experience
 * Its - Interobjective: Organisational, structural, systems and strategy 
 
+## Contributions
+Comments and contributions are welcome. See <a href="CONTRIBUTING.md">Contributing</a> for details.
+
+## License & Copyright
+
+The materials herein are all &copy; Human-Centric Engineering.
+
+This work is licensed under a <a rel="/license" href="/LICENSE">GNU General Public License v3.0</a>.
+
+The survey questions may be used for commercial or non-commercial purposes without permission of the author, however, it is imperative that Human-Centric Engineering is credited.
